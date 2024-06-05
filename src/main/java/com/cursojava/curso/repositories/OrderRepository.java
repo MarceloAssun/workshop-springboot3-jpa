@@ -6,4 +6,6 @@ import com.cursojava.curso.entities.Order;
 
 public interface OrderRepository extends JpaRepository<Order, Long>{
 
+	
+
 }
